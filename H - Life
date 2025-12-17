@@ -6,13 +6,13 @@
     } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
     // 2. YOUR CONFIG (Replace with your actual Firebase project keys)
- const firebaseConfig = {
-  apiKey: "AIzaSyBlN7lZqqpyST39tZBA_xRpBk5gETY63CQ",
-  authDomain: "job-tracker-c1599.firebaseapp.com",
-  projectId: "job-tracker-c1599",
-  storageBucket: "job-tracker-c1599.firebasestorage.app",
-  messagingSenderId: "10827059262",
-  appId: "1:10827059262:web:e054be64d36c2e1f06c16f"
+    const firebaseConfig = {
+  apiKey: "AIzaSyDnedUr-RQs_iOKKP3LSvlV1hjXxdyfaOI",
+  authDomain: "h-life-tracker.firebaseapp.com",
+  projectId: "h-life-tracker",
+  storageBucket: "h-life-tracker.firebasestorage.app",
+  messagingSenderId: "757300363968",
+  appId: "1:757300363968:web:454e080f069f851c266325"
 };
 
     // Initialize Firebase
